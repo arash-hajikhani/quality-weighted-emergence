@@ -34,8 +34,8 @@ from collections import defaultdict
 
 # File paths (adjust as needed)
 DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data")
-WORKS_CSV = os.path.join(DATA_DIR, "openalex_works.csv")
-RANKINGS_CSV = os.path.join(DATA_DIR, "journal_ranking_data.csv")
+WORKS_CSV = os.path.join(DATA_DIR, "openalex_quantum_algorithms_2020_2026.csv")
+RANKINGS_CSV = os.path.join(DATA_DIR, "scopus_journal_rankings.csv")
 OUTPUT_JSON = os.path.join(os.path.dirname(os.path.abspath(__file__)), "results.json")
 
 # Venue quality weights by CiteScore quartile

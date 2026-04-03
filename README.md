@@ -44,7 +44,8 @@ Applied to 13,695 quantum algorithms publications from OpenAlex, matched against
 | File | Description |
 |------|-------------|
 | `emergence_analysis.py` | Main analysis pipeline |
-| `data/` | Place your OpenAlex CSV and journal ranking CSV here |
+| `data/openalex_quantum_algorithms_2020_2026.csv` | 13,695 publications from OpenAlex (CC0) |
+| `data/scopus_journal_rankings.csv` | 18,013 journal rankings from Scopus/SJR |
 
 ## Data Requirements
 
